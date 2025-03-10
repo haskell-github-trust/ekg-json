@@ -31,8 +31,9 @@ tested-with:
    || ==9.4.8
    || ==9.6.4
    || ==9.6.6
-   || ==9.8.2
+   || ==9.8.4
    || ==9.10.1
+   || ==9.12.1
 
 library
   exposed-modules:  System.Metrics.Json
